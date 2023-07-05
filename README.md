@@ -1,6 +1,6 @@
 # Workflow für ein kleines Team auf GitHub
 
-Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow auf GitHub, der für ein kleines Team von 2 bis 3 Personen entwickelt wurde. Dieser Workflow beinhaltet das Arbeiten auf eigenen Branches und das Verwenden von Pull Requests.
+Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow auf GitHub, der für ein kleines Team entwickelt wurde. Dieser Workflow beinhaltet das Arbeiten auf eigenen Branches und das Verwenden von Pull Requests.
 
 ## Schritt 1: Repository erstellen und einrichten
 
