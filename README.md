@@ -30,9 +30,10 @@ Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow auf G
 ## Schritt 6: Pull Request erstellen
 
 1. Gehe zum Repository auf GitHub.
-2. Klicke auf den **Compare & pull request**-Button neben deinem Branch.
-3. Überprüfe die Änderungen im Pull Request und füge, falls notwendig, zusätzliche Informationen hinzu.
-4. Klicke auf **Create pull request**, um den Pull Request zu erstellen.
+2. Klicke unter dem Repository-Namen auf **branches** um in die Branchübersicht zu gelangen
+3. Klicke auf den **Compare & pull request**-Button neben deinem Branch.
+4. Überprüfe die Änderungen im Pull Request und füge, falls notwendig, zusätzliche Informationen hinzu.
+5. Klicke auf **Create pull request**, um den Pull Request zu erstellen.
 
 ## Schritt 7: Review und Zusammenführung
 
@@ -45,6 +46,7 @@ Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow auf G
 1. Jedes Teammitglied muss seine lokale Kopie aktualisieren, um die neuen Änderungen zu übernehmen:
    - Wechsle zum Hauptzweig: `git checkout main` (oder entsprechendem Hauptzweig-Namen).
    - Aktualisiere den Hauptzweig: `git pull origin main`.
+2. Wechsle anschließend mit `git checkout <branch-name>` zurück zum eigenen Branch. Führe dann den Befehl `git merge main` aus, um die aktuellsten Änderungen aus dem Hauptzweig (normalerweise "main" oder "master") in den eigenen Branch zu übernehmen. Alternativ kannst du für weitere Arbeiten auch einen neuen Branch erstellen, ähnlich wie im Schritt 3 beschrieben. Beachte jedoch, dass du in diesem Fall den nicht mehr benötigten Branch gemäß Schritt 9 löschen solltest.
 
 ## Schritt 9: Branches löschen
 
