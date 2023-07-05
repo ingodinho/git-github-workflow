@@ -42,7 +42,7 @@ Dies ist eine Schritt-für-Schritt-Anleitung für einen einfachen Workflow auf G
 
 ## Schritt 8: Lokale Kopien aktualisieren
 
-1. Jedes Teammitglied muss seine lokale Kopie aktualisieren, um die neuen Änderungen einzufangen:
+1. Jedes Teammitglied muss seine lokale Kopie aktualisieren, um die neuen Änderungen zu übernehmen:
    - Wechsle zum Hauptzweig: `git checkout main` (oder entsprechendem Hauptzweig-Namen).
    - Aktualisiere den Hauptzweig: `git pull origin main`.
 
